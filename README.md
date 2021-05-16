@@ -10,6 +10,8 @@ Clean and legible code allows for easier trouble shooting. Improved accessibilit
 
 ## **Corrections**
 
+### In HTML
+
 - Added correct and descriptive tab title
 - Changed div to header element
 - Changed div to nav element
@@ -20,6 +22,12 @@ Clean and legible code allows for easier trouble shooting. Improved accessibilit
 - Changed div to aside element
 - Added blank alt attributes for unimportant icon pictures
 - Changed div to footer element
+
+### In CSS
+
+- Added nav selector
+- Added nav ul selector
+- Added nav ul li selector
 
 ## **Screenshots**
 
