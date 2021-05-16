@@ -10,16 +10,16 @@
 
 ## **Corrections**
 
--Added correct and descriptive tab title
--Changed div to header element
--Changed div to nav element
--Changed div to section element
--Changed div to article element
--Added id for search-engine-optimization to fix link
--Added alt attributes for each picture
--Changed div to aside element
--Added blank alt attributes for unimportant icon pictures
--Changed div to footer element
+- Added correct and descriptive tab title
+- Changed div to header element
+- Changed div to nav element
+- Changed div to section element
+- Changed div to article element
+- Added id for search-engine-optimization to fix link
+- Added alt attributes for each picture
+- Changed div to aside element
+- Added blank alt attributes for unimportant icon pictures
+- Changed div to footer element
 
 ## **Screenshots**
 
