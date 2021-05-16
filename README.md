@@ -2,11 +2,11 @@
 
 ## **Description of Refactor Issues**
 
-### Horiseon's webpage code needed adjustments to improve code syntax and structure, fix links, and meet accessibility standards.
+Horiseon's webpage code needed adjustments to improve code syntax and structure, fix links, and to meet accessibility standards.
 
 ## **Motivation**
 
-### Clean and legible code and comments allow for easier trouble shooting. Improved accessibility allows for users with disabilities, who employ tools such as screen readers to get the most out of their website experience. Accessibility also allows our website to be prioritized by search engines such as google, which encourages website traffic, and it helps avoid legal litigation.
+Clean and legible code allows for easier trouble shooting. Improved accessibility allows users with disabilities, who employ tools such as screen readers, to get the most out of their website experience. Accessibility also promotes prioritization from search engines such as google, which in turn generates increased website traffic. Accessibility also helps avoid legal litigation by addressing and serving the needs of individuals with disabilities.
 
 ## **Corrections**
 
