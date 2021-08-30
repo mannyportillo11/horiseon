@@ -45,4 +45,4 @@ Clean and legible code allows for easier trouble shooting. Improved accessibilit
 
 ## **Link to Deployed Application**
 
-Check out the website by clicking here -> [Horiseon](https://mannyportillo11.github.io/horiseon/)
+[Horiseon](https://mannyportillo11.github.io/horiseon/)
